@@ -1,0 +1,11 @@
+192.168.1.22: pollDoor: Door has not moved
+192.168.1.22: pollNetwork: Polling network...
+192.168.1.22: No new messages.
+192.168.1.22: pollDoor: Door has not moved
+192.168.1.22: pollNetwork: Polling network...
+192.168.1.22: No new messages.
+192.168.1.22: Acknowledging host.
+192.168.1.22: !ID=124,STATE=1,MTR_POS=10,TOPPOS=10,UL=8,LL=5,LIT=0,AUTO=1,LDR=0,TIME=1,MTRSAVE=1,MTRTIME=75,CLOSE=1280,OPEN=287,MOFF=0
+192.168.1.22: pollDoor: Door has not moved
+192.168.1.22: pollNetwork: Polling network...
+192.168.1.22: No new messages.
