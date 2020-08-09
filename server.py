@@ -9,7 +9,7 @@ FILE_PATH   = "logs/"
 def writeToFile(context):
     print("["+datetime.datetime.now().strftime("%Y-%m-%d %H:%M] ") + context)
     f = open(FILE_PATH + datetime.datetime.now().strftime("%Y-%m-%d") + ".log", "a")
-    f.write(context + "\n")
+    f.write("["+datetime.datetime.now().strftime("%Y-%m-%d %H:%M] ") + context + "\n")
     f.close()
 
 def udpServer():
